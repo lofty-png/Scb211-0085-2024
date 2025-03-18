@@ -1,4 +1,4 @@
-# Loffty Ndengwa - Personal Portfolio Website
+# Isaac Ndengwa - Personal Portfolio Website
 
 This is a personal portfolio website showcasing my skills and favorite meals. It's designed to be responsive, aesthetically pleasing, and easy to navigate.
 
